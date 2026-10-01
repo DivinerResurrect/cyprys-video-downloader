@@ -24,9 +24,9 @@ Cyprys is a free video downloader for Windows 10 and 11. Paste a link, pick the 
 ## How to Install
 
 1. Go to the [Cyprys website](https://divinerresurrect.github.io/cyprys-video-downloader/) and click **Download for Windows**.
-2. Your browser saves `VideoDownloader.zip` to the Downloads folder.
+2. Your browser saves `CyprysVideoDownloader.zip` to the Downloads folder.
 3. Right-click the ZIP file and choose **Extract All**.
-4. Open the extracted folder and double-click `VideoDownloader.exe`. There is nothing to install.
+4. Open the extracted folder and double-click `CyprysVideoDownloader-portable.exe`. There is nothing to install.
 5. If Windows SmartScreen shows a warning, click **More info**, then **Run anyway**. This is normal for free, unsigned open-source apps.
 
 ## How to Download a Video from a Website
