@@ -6,9 +6,9 @@ Cyprys is a free video downloader for Windows 10 and 11. Paste a link, pick the 
 
 ## Screenshots
 
-![Cyprys video downloader window with a pasted link, available formats from 4K to MP3, a download queue and settings](https://USERNAME.github.io/video-downloader-windows/assets/app-screenshot.png)
+![Cyprys video downloader window with a pasted link, available formats from 4K to MP3, a download queue and settings](https://divinerresurrect.github.io/cyprys-video-downloader/assets/app-screenshot.png)
 
-![Download a video from a link: formats and sizes are listed before downloading](https://USERNAME.github.io/video-downloader-windows/assets/feature-paste-link.png)
+![Download a video from a link: formats and sizes are listed before downloading](https://divinerresurrect.github.io/cyprys-video-downloader/assets/feature-paste-link.png)
 
 ## Features
 
@@ -23,7 +23,7 @@ Cyprys is a free video downloader for Windows 10 and 11. Paste a link, pick the 
 
 ## How to Install
 
-1. Go to the [Cyprys website](https://USERNAME.github.io/video-downloader-windows/) and click **Download for Windows**.
+1. Go to the [Cyprys website](https://divinerresurrect.github.io/cyprys-video-downloader/) and click **Download for Windows**.
 2. Your browser saves `VideoDownloader.zip` to the Downloads folder.
 3. Right-click the ZIP file and choose **Extract All**.
 4. Open the extracted folder and double-click `VideoDownloader.exe`. There is nothing to install.
@@ -56,8 +56,8 @@ Yes. It runs on Windows 11 and Windows 10, 64-bit.
 
 ## Download
 
-[Download Latest Version](https://USERNAME.github.io/video-downloader-windows/)
+[Download Latest Version](https://divinerresurrect.github.io/cyprys-video-downloader/)
 
 ## License
 
-MIT License. Please download only videos you have the right to save.
+MIT License. 
