@@ -1,0 +1,35 @@
+# Cyprys Video Downloader for Windows
+
+> Portable video downloader for Windows that saves videos from a link in up to 4K, 1080p or as MP3 audio, with playlist and subtitle download.
+
+- Download: https://github.com/WraithEchoAdapter/rep1/releases/latest/download/CyprysVideoDownloader.zip
+- Source code: https://github.com/DivinerResurrect/cyprys-video-downloader
+- Platform: Windows 10, Windows 11 (64-bit), portable .exe, no installation
+- License: MIT, free for personal and commercial use
+- Updated: 2026-10-01
+
+## What it does
+- Download a video from a link: Paste the address of a page with a video and the app lists every available format with its size, before anything is downloaded. Pick one and press Download.
+- Download videos in 4K or 1080p: Set a default quality once: best available, 1080p Full HD, 720p for smaller files, or audio only. The app picks the closest format the site offers.
+- Convert video to MP3: Save only the sound as MP3, M4A, WAV or OPUS, for lectures, podcasts and music you are allowed to keep. Video can be saved as MP4, MKV or WEBM.
+- Download a whole playlist at once: Paste a playlist link and every video in it is queued with the same settings. The queue shows progress, speed and time left for each file.
+- Download subtitles with the video: Save subtitles in the languages you choose when the video has them, and embed the thumbnail and title into the file so your library stays tidy.
+
+## FAQ
+### How do I download a video from a website on Windows?
+Download Video Downloader, unzip it and run the .exe. Copy the link of the page with the video, press Paste, choose a quality and press Download. The file is saved to your Videos\Downloads folder.
+
+### How do I download a video in 1080p or 4K?
+After you paste the link, the app lists every format the site offers. Pick 1080p or 2160p (4K) from the list, or set a default quality in the settings. If a site has no 4K version, the app cannot create one.
+
+### How do I save a video as MP3?
+Choose Audio only in the format list, or set MP3 as the default audio format. The app saves just the sound track, which is handy for lectures and podcasts.
+
+### How do I download a whole playlist?
+Paste the playlist link instead of a single video link. With Whole playlist from one link turned on, every video is added to the queue with the same quality and format.
+
+### Is it legal to download videos from the internet?
+It depends on the video and where you live. Saving your own videos, videos under a Creative Commons license, public domain footage or videos you have the owner's permission to download is fine. Downloading copyrighted videos without permission can break copyright law and a site's terms of service. Please download only what you have the right to keep.
+
+### Can it download from Netflix or other paid streaming services?
+No. Paid streaming services protect their videos with DRM, and Video Downloader does not bypass copy protection. It works with videos that a site makes available without DRM.
