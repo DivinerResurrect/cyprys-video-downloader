@@ -2,7 +2,7 @@
 
 Cyprys is a free video downloader for Windows 10 and 11. Paste a link, pick the quality and save the video straight to your PC: up to 4K, 1080p or audio only as MP3, with whole playlists and subtitles. It is a portable app with no ads, no account and no browser extension.
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows%2010%20%26%2011-FFB224?style=for-the-badge&logo=windows&logoColor=111110&labelColor=111110)](https://USERNAME.github.io/video-downloader-windows/)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows%2010%20%26%2011-FFB224?style=for-the-badge&logo=windows&logoColor=111110&labelColor=111110)](https://divinerresurrect.github.io/cyprys-video-downloader/)
 
 ## Screenshots
 
